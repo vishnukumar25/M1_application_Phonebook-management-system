@@ -10,10 +10,10 @@ The main objective of the project is that you can find on your mobile as a conta
 # Features
 This project supports the following types of financial calculations: 
 
-1. Adding new records
-2. Searching new records
-3. Displaying new recoreds
-4. Deleting new records 
+1. Adding new contacts
+2. Searching new contacts
+3. Displaying new contacts
+4. Deleting new contacts
 
 # 4W's and 1 H's
 ## Why:
@@ -49,10 +49,10 @@ This project supports the following types of financial calculations:
 # High Level Requirements
 | ID   |      Description     |  Status |
 |----------|:-------------:|------:|
-| HLR_1 |  The user can add the data | Implemented  |
-| HLR_2 |    The user can search the data | Implemented  |
-| HLR_3 |    The user can display the data  | Implemented  |
-| HLR_4 |    The user can delete the data  | Implemented  |
+| HLR_1 |  The user can add the contact| Implemented  |
+| HLR_2 |    The user can search the contact | Implemented  |
+| HLR_3 |    The user can display the contact | Implemented  |
+| HLR_4 |    The user can delete the contact | Implemented  |
 
 # Low Level Requirements
 | ID   |      Description     |  Status |
