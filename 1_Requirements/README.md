@@ -1,1 +1,63 @@
+# Requirements
+
+# Introduction
+In this project, Phonebook directory management program in C is developed which will perform basic functions like append, find, show the data
+
+# Objective
+The main objective of the project is that you can find on your mobile as a contacts app. This allows the users to save contacts under a name.
+
+
+# Features
+This project supports the following types of financial calculations: 
+
+1. Adding new records
+2. Searching new records
+3. Displaying new recoreds
+4. Deleting new records 
+
+# 4W's and 1 H's
+## Why:
+1. To store all information under a single contact number
+
+## Where:
+1. This can be used in our daily lives to search contacts.
+
+## Who:
+1. It can be used by each and every individual.
+
+## When:
+1. One is in need to search their very important contact.
+
+## How:
+1. By giving different functions one can find their desired output
+
+# SWOT Analysis
+
+## Strengths
+1. It becomes easy for the user to store complete information about his contact
+2. It is easy for the user to search his contact number by just typing the name of the contact
+
+## Weakness
+1. Sometimes it becomes difficult for the user to store more contacts
+
+## Opportunities
+1. GUI can be used to enhance the visual look of the contact.
+
+## Threats
+1. Advanced features are already there
+
+# High Level Requirements
+| ID   |      Description     |  Status |
+|----------|:-------------:|------:|
+| HLR_1 |  The user can add the data | Implemented  |
+| HLR_2 |    The user can search the data | Implemented  |
+| HLR_3 |    The user can display the data  | Implemented  |
+| HLR_4 |    The user can delete the data  | Implemented  |
+
+# Low Level Requirements
+| ID   |      Description     |  Status |
+|----------|:-------------:|------:|
+| LLR_1 |  List of operations displayed | Implemented  |
+| LLR_2 |  Input from the user  | Implemented  |
+| LLR_3 |  Exit the program  | Implemented  |
 
